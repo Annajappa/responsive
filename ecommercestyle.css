@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.login-signup-button {
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0px;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #7bc0f7, #cbe3f7, #7bc0f7);
+    color: #f7b27b;
+}
+
+.navbar-background {
+    background-color: #7bc0f7;
+}
+
+.span-color {
+    color: orange;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.Navbar-logo {
+    font-family: cursive;
+    font-size: 25px;
+
+}
+
+.background-image {
+    width: 100%;
+}
+
+.background-heading {
+    font-family: cursive;
+    color: #7bc0f7;
+    font-size: bold;
+}
+
+.background-discription {
+    font-family: cursive;
+    font-size: 20px;
+    color: #7bc0f7;
+    font-size: bold;
+}
+
+.Search-button {
+    background-color: #ffffff;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0px;
+    padding: 10px;
+    color: #7bc0f7;
+}
+
+.button-navbar {
+    background-image: linear-gradient(to bottom, #7bc0f7, #cbe3f7, #7bc0f7);
+}
+
+.book-now-heading {
+    color: #7bc0f7;
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: cursive;
+}
+
+.card-section-service {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.image-service {
+    height: 80px;
+    width: 100px;
+}
+
+.image-heading {
+    font-size: 35px;
+    color: #7bc0f7;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.image-discription {
+    font-size: 20px;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.image-galary-section {
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.galary-image-heading {
+    color: #7bc0f7;
+    padding: 10px;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.galary-image-discription {
+    padding: 10px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.modal-form {
+    color: Orange;
+    padding: 10px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.profile {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0px;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #7bc0f7, #cbe3f7, #7bc0f7);
+    color: #f7b27b;
+    height: 45px;
+    width: 60px;
+}
+
+.image-model {
+    height: 180px;
+    width: 170px;
+    border-radius: 80px;
+}
+
+.span-highlite-model {
+    color: #f7b27b;
+    font-weight: bold;
+}
+
+.offer-background {
+    background-image: radial-gradient(#ffffff, #7bc0f7);
+    background-size: cover;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.offer-image {
+    width: 50%;
+
+}
+
+.offer-image-heading {
+    color: #f7b27b;
+    padding: 10px;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.galary-image-discription {
+    padding: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    color: #f7b27b;
+}
+
+.offer-button {
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0px;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #f7b27b, #cbe3f7, #f7b27b);
+    color: #f7b27b;
+}
+
+.About-section {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.background-about {
+    background-color: #bde3f1;
+    border-radius: 10px;
+}
+
+.footer-section-background {
+    background-color: #83d5f4;
+
+}
+
+.footer-section-heading {
+    color: orange;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.horizontal-line {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
